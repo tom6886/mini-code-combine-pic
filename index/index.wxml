@@ -1,0 +1,6 @@
+<view class="page-body">
+  <view class="page-body-wrapper">
+    <!-- canvas.wxml -->
+    <canvas style="width: 252px; height: 356.4px;"  canvas-id="firstCanvas"></canvas>
+  </view>
+</view>
